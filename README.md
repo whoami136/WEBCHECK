@@ -57,3 +57,5 @@ pip install -r requirements.txt --break-system-packages
 chmod +x webcheck.py
 sudo cp webcheck.py /usr/bin/webcheck
 ln -s /usr/bin/webcheck ~/webcheck
+sudo systemctl start tor
+webcheck {LINK}
