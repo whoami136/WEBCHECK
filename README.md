@@ -1,3 +1,5 @@
+<img width="1380" height="752" alt="Gemini_Generated_Image_w0lscdw0lscdw0ls" src="https://github.com/user-attachments/assets/a16031ee-c0c1-4650-9f00-c348d2683281" />
+
 # WEBCHECK
 WebCheck is an advanced command-line threat intelligence and fraud verification tool designed for Kali Linux and NetHunter. It inspects domain age, SSL security, WHOIS records, and Abuse.ch malware blacklists—all 100% anonymized and securely routed through the Tor network to protect your real IP.
 cat << 'EOF' > README.md
